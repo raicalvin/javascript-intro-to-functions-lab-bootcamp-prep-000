@@ -3,5 +3,5 @@ function shout(string) {
 };
 
 function whisper() {
-  console.log('hello');
+  return console.log('hello');
 };
